@@ -3,7 +3,7 @@
 #include <vector>
 #include <iostream>
 using namespace std;
-
+//Only did this to brush up on Merge Sort. 
 class Solution {
 public:
     void merge(vector<int>& arr, int left, int mid, int right) {
